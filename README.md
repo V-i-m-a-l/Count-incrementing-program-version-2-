@@ -5,3 +5,4 @@ I have improvised my program and now the incremented count will be displayed on 
 I have also added comments in this version (in js file) to make myself and anyone who will be checking out the code, easy to understand every single line of the code 
 
 In the next version I'll be try to beautify the interface by adding css
+
